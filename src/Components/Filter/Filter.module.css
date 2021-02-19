@@ -1,0 +1,15 @@
+.filter {
+  display: block;
+  margin: 0 0 15px 0;
+  padding: 5px;
+  width: 35%;
+  border: 1px solid #ccc;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+
+  color: hsl(232, 47%, 50%);
+}

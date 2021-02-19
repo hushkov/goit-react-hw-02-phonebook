@@ -1,0 +1,24 @@
+.contactItem {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+  padding: 20px;
+  margin: 0px;
+  font-size: 1.2em;
+}
+
+.button {
+  /* margin-left: 15px; */
+  color: hsl(210, 66.7%, 98.8%);
+  background-color: hsl(232, 47%, 50%);
+  border: none;
+  border-radius: 0.5em;
+
+  transition: all 300ms ease;
+}
+
+.button:hover {
+  background-color: hsl(230, 57%, 45%);
+
+  cursor: pointer;
+}

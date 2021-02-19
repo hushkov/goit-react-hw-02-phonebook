@@ -1,0 +1,8 @@
+.App {
+  padding: 3em 7em;
+  overflow: hidden;
+  /* display: flex;
+  justify-content: space-evenly; */
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
